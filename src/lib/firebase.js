@@ -3,7 +3,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
-
+//to be changed when making a new firebase
 const firebaseConfig = {
   apiKey: "AIzaSyDXnrrSIZqe2Ql5ppfyPjPjTMrzcz8XgpE",
   authDomain: "pisici-765a3.firebaseapp.com",
